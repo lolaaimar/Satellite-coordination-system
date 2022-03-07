@@ -1,0 +1,28 @@
+.table-div {
+    margin:10px;
+    height: 500px;
+    width: 100%;
+    background-color: whitesmoke;
+    overflow: auto;
+}
+
+.table-div table {
+    border-collapse: collapse;
+}
+
+th, td {
+    width: 25%;
+}
+
+th {
+    background-color: rgb(237, 236, 243) ;
+    font-size: large;
+}
+
+tr {
+    border-bottom: 1px solid #ddd;
+}
+
+tbody tr:hover {
+    background-color: rgb(221, 217, 243);
+}

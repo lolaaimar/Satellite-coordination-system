@@ -1,0 +1,6 @@
+.App-List {
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+    color: black;
+}

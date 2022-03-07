@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(243, 243, 243);
+}
+
+.App {
+  text-align: center;
+  font-family: Karla;
+}
+
+.App-body {
+  display: flex;
+  margin: 5%;
+  flex-direction: row;
+  height: 80%;
+  width: 90%;
+  background-color:#000000;
+  color: white;
+}
+
